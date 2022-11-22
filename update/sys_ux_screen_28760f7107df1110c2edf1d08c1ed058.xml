@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
     <sys_ux_screen action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <app_config display_value="NeedIt Experience">ca7109f507d71110c2edf1d08c1ed008</app_config>
         <description/>
         <event_mappings>[ ]</event_mappings>
